@@ -4,5 +4,5 @@
 
 ## vscode 에서 github push
 - save
-- commint
+- commit
 - push
